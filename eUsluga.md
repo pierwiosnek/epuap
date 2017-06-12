@@ -7,7 +7,7 @@ Elektroniczne Usługi Publiczne
 Elektroniczną Platformę Usług Administracji Publicznej 
 
 
-- [ ] eUsluga_ePUAP.md - 01 lipca
+- [x] eUsluga_ePUAP.md - 01 lipca
 
 Profil Zaufany
 
