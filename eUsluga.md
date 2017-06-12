@@ -2,7 +2,7 @@ Elektroniczne Usługi Publiczne
 
 
 
-- [x] eUsluga_pub.md - 29 czerwca
+- [ ] eUsluga_pub.md - 29 czerwca
 
 Elektroniczną Platformę Usług Administracji Publicznej 
 
